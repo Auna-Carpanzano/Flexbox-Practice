@@ -5,6 +5,7 @@
 }
 
 .container {
+  display: flex;
   background-color: royalblue;
   padding: 10px;
 }
