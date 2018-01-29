@@ -6,9 +6,9 @@
 
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
-  align-items: baseline;
+  align-items: center;
   background-color: royalblue;
   padding: 10px;
 }
