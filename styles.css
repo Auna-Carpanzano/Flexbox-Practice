@@ -25,7 +25,7 @@
 
 .item-2 {
   height: 200px;
-  /* flex: 3; */
+  flex-basis: 300px;
 }
 
 .item-3 {
