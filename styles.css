@@ -37,6 +37,6 @@
 }
 
 .item-4 {
-  align-self: flex-end;
+  /* align-self: flex-end; */
   order: -1;
 }
