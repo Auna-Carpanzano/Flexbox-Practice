@@ -25,8 +25,9 @@
 
 .item-2 {
   height: 200px;
-  flex-basis: 300px;
-  flex-shrink: 0;
+  /* flex-basis: 300px;
+  flex-shrink: 0; */
+  flex: 0 1 300px;
 }
 
 .item-3 {
