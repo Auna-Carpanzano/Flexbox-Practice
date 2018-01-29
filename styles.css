@@ -15,6 +15,7 @@
 }
 
 .item {
+  flex-grow: 1;
   background-color: lightblue;
   color: white;
   padding: 30px;
