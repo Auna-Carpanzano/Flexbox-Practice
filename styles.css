@@ -15,7 +15,7 @@
 }
 
 .item {
-  flex: 1;
+  /* flex: 1; */
   background-color: lightblue;
   color: white;
   padding: 30px;
@@ -25,11 +25,12 @@
 
 .item-2 {
   height: 200px;
-  flex: 3;
+  /* flex: 3; */
 }
 
 .item-3 {
   order: 1;
+  flex: 1;
 }
 
 .item-4 {
