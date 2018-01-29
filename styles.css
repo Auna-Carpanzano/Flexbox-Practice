@@ -15,7 +15,7 @@
 }
 
 .item {
-  flex-grow: 1;
+  flex: 1;
   background-color: lightblue;
   color: white;
   padding: 30px;
@@ -25,6 +25,7 @@
 
 .item-2 {
   height: 200px;
+  flex: 3;
 }
 
 .item-3 {
