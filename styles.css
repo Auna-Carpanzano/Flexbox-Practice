@@ -26,6 +26,10 @@
   height: 200px;
 }
 
+.item-3 {
+  order: 1;
+}
+
 .item-4 {
   align-self: flex-end;
   order: -1;
