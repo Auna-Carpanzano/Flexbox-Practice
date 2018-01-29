@@ -9,6 +9,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   background-color: royalblue;
   padding: 10px;
  /* height: 1500px; */
